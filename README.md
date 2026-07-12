@@ -1,4 +1,4 @@
- CodeAlpha Web Scraping
+CodeAlpha Web Scraping
 
  Project Title:-
 Job Market Analysis Using Web Scraping
